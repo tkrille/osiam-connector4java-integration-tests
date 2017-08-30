@@ -6,3 +6,7 @@ target/
 .settings
 /target
 integration-tests.properties
+.gradle
+/build/
+!gradle-wrapper.jar
+.gradletasknamecache
